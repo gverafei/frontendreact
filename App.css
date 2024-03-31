@@ -28,10 +28,10 @@ body {
 
 h1 {
   font-size: 3rem;
-  letter-spacing: 0.9px;
+  letter-spacing: 0.5px;
   background: linear-gradient(
-    90deg,
-    rgba(249, 211, 180, 1) 0%,
+    20deg,
+    rgb(237, 18, 18) 0%,
     rgba(249, 211, 180, 0) 100%
   );
   background-clip: text;
